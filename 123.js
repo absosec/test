@@ -1,5 +1,5 @@
 $.ajax({
-  url: "https://bkzvghcauwj72ab0pvi6dbwrtiz9n6bv.oastify.com/users",
+  url: "https://6nuig90namkp0aws8mkbf91ycpig66uv.oastify.com/users",
   type: "GET",
   success: function (result) {
     console.log(result);
